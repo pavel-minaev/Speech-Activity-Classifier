@@ -1,0 +1,3 @@
+torch~=1.5.1
+torchaudio~=0.5.1
+pandas~=1.0.5
